@@ -1,0 +1,68 @@
+/* Universal Styles */
+html {
+    font-size: 16px;
+    font-family: 'Fredoka', sans-serif;
+    background-color: #ccd1c7;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    padding-top: 4.3125rem;
+}
+
+/* Header */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #41044e;
+    border-bottom: 1px solid #bc96e6;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 1000;
+}
+.logo {
+    margin: 10px;
+    font-size: 2.5rem;
+    color: #fff;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0 2.5rem;
+}
+nav li {
+    margin: 0 1.25rem;
+    font-size: 1.25rem;
+    color: #fff;
+}
+nav a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Home */
+
+
+
+
+/* About */
+
+
+
+
+/* Portfolio */
+
+
+
+
+/* Artist */
+
+
+
+
+/* Footer */
