@@ -94,9 +94,28 @@ nav a {
 }
 
 /* Portfolio */
-
-
-
+.portfolio {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3rem;
+}
+.portfolio h2 {
+    font-size: 3.5rem;
+    color: #bc96e6;
+    background-color: hsla(194, 85%, 21%, 0.6);
+    padding: 0 0.625rem;
+}
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.gallery img {
+    width: auto;
+    height: 21.875rem;
+    margin: 0.625rem;
+}
 
 /* Artist */
 
