@@ -118,8 +118,30 @@ nav a {
 }
 
 /* Artist */
-
-
-
-
-/* Footer */
+.artist {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 3rem;
+}
+.artist h2 {
+    margin: 1.25rem 0;
+    font-size: 3.5rem;
+    color: #5e454e;
+    background-color: hsla(194, 85%, 21%, 0.4);
+    padding: 0 0.625rem;
+}
+.artist img{
+    height: 40.625rem;
+    width: auto;
+    border-radius: 1.25rem;
+}
+.artist-image {
+    width: 24.6875rem;
+}
+.artist p {
+    margin: 0;
+    text-align: center;
+    width: 37.5rem;
+    font-size: 2rem;
+}
