@@ -10,3 +10,6 @@ VS Code: html & css
 - Brother and I decided on a color palette by using coolors.co
 - Art itself is my brother's original work, credits to Matthew H. (@Matthew--HWH deviantart)
 - Photo of Matthew taken by myself
+
+## Instructions
+There is no instructions to use this project, but here is a link to the deployed page: https://darkowl490.github.io/ash-arts-business/
